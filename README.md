@@ -1,6 +1,6 @@
 # Money
 وزارة الداخلية - البنك المركزي 
-# is fak my
+# money
 Twitter🐤 https://twitter.com/RepobotT
 
 Facebook🐦 https://www.facebook.com/RepoBot
@@ -20,3 +20,4 @@ Webshop 🎈https://reposhop.webnode.com/
 10 = 23.8
 10 Ivzit
 23.8 paypal 
+2000000000.000.000
